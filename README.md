@@ -3,8 +3,10 @@
 **ものづくりに関係すること**を発表
 
 ## 開催
-- 日時 9月中旬(とうロボ後)
-- 場所 未定
+- 日時 9/17(日)
+- 場所 6号館(ライブラリセンター) [AV室(201)](https://www.kanazawa-it.ac.jp/kitlc/about/map_2f.html#av)  
+2F透視図  
+  ![Alt text](map_2f.gif)
 - 主催者 藤野(B4)
 - 対面のみ
 
